@@ -1,0 +1,7 @@
+23:39:21.343 [main] ERROR Academy.ValidateTitle - Driver closing
+23:39:42.608 [main] ERROR Academy.ValidateLoginPage - Driver initialized
+23:39:55.552 [main] ERROR Academy.ValidateLoginPage - Driver Closed
+23:46:10.702 [main] ERROR Academy.ValidateLoginPage - Driver initialized
+23:46:22.262 [main] ERROR Academy.ValidateLoginPage - Driver Closed
+23:46:37.580 [main] ERROR Academy.ValidateNavigationBar - Driver initialized
+23:46:55.114 [main] ERROR Academy.ValidateNavigationBar - Driver closing

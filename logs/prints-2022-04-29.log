@@ -1,0 +1,7 @@
+15:29:51.845 [TestNG-tests-1] ERROR Academy.ValidateNavigationBar - Driver initialized
+15:29:51.845 [TestNG-tests-2] ERROR Academy.ValidateTitle - Driver initialized
+15:29:52.117 [TestNG-tests-2] FATAL Academy.ValidateTitle - Driver initialized
+15:29:52.258 [TestNG-tests-3] ERROR Academy.ValidateLoginPage - Driver initialized
+15:39:18.952 [TestNG-tests-3] ERROR Academy.ValidateLoginPage - Driver initialized
+15:39:18.952 [TestNG-tests-2] ERROR Academy.ValidateTitle - Driver initialized
+15:39:18.952 [TestNG-tests-1] ERROR Academy.ValidateNavigationBar - Driver initialized

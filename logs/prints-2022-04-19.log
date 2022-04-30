@@ -1,0 +1,5 @@
+17:59:23.975 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE ValidateTitle.validateAppTitle()[pri:0, instance:Academy.ValidateTitle@20b5f2ac] -559429824
+17:59:23.976 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+17:59:23.976 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+17:59:23.976 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+17:59:23.976 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES

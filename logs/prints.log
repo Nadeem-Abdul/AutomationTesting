@@ -1,0 +1,4 @@
+15:39:19.009 [TestNG-tests-2] FATAL Academy.ValidateTitle - Driver initialized
+15:39:49.993 [TestNG-tests-2] ERROR Academy.ValidateTitle - Driver closing
+15:39:51.273 [TestNG-tests-1] ERROR Academy.ValidateNavigationBar - Driver closing
+15:40:09.002 [TestNG-tests-3] ERROR Academy.ValidateLoginPage - Driver Closed

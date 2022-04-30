@@ -1,0 +1,7 @@
+13:35:31.133 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+13:35:31.134 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+13:35:31.134 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+13:35:31.134 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+13:37:03.629 [main] ERROR Academy.ValidateLoginPage - Driver initialized
+13:37:19.623 [main] ERROR Academy.ValidateLoginPage - Driver Closed
+13:37:23.110 [main] ERROR Academy.ValidateNavigationBar - Driver initialized
