@@ -46,6 +46,9 @@ public class ValidateLoginPage extends base{
 		log.info("Password Entered");
 		loginpage.getLogin().click();
 		log.info("Button clicked");
+		log.info("Button clicked");
+		log.info("Button clicked");
+		log.info("Button clicked");
 		//System.out.println(text);
 	}
 	
