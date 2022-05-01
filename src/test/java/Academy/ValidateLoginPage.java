@@ -39,16 +39,12 @@ public class ValidateLoginPage extends base{
 		LoginPage loginpage = new LoginPage(driver);
 		loginpage.getuserName().sendKeys(username);
 		log.info("username Entered");
-		log.info("username Entered");
-		log.info("username Entered");
-		log.info("username Entered");
+		
 		loginpage.getPass().sendKeys(password);
 		log.info("Password Entered");
 		loginpage.getLogin().click();
 		log.info("Button clicked");
-		log.info("Button clicked");
-		log.info("Button clicked");
-		log.info("Button clicked");
+		
 		//System.out.println(text);
 	}
 	
